@@ -1,4 +1,4 @@
-#inclue "main.h"
+#include "main.h"
 
 /**
 * strcpy - copies the string pointed to
